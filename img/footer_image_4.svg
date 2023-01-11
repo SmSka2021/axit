@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 46" width="58" height="46">
+	<title>footer_image_4</title>
+	<defs>
+		<image  width="42" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAz8/Pzc3NzMzMzMzMzMzMzc3Nz8/Pzc3NzMzMzMzMzMzMysrKzMzMzMzMy8vLy8vL90OSQQAAABF0Uk5TABBgn7+vcCB/7//PMN9QQI/WmYV5AAABS0lEQVR4nKWV65KDIAyFgXBzger7P+16PI20nd0ZY/OnRT5McpKgcy/mfQgi8bCUci7F/WcXUe9rXZafDxPx/j5aSmufGG1Zer+HljJdL0uMIinF+CdsQNX5GI/He6IKn7JdRvWBCFa91ypSawhcMTTuWVAuYoRLkSlTa5A/Z66OEC6j6zpPbRtSExnjNSSuarWgTKo1FAKywCn+USSgeMERoAFN6fn6I4Fto/ya2hRzP2ZA2RZA8Qi/7kyVAWiJLOgZ9AGkNBPRFUPcjxlQfT1K0Bo3tQRsmbPwBrR3bQ6MYs5zE2VxLgTu7zsGdLqDceDWFaOIEnuvA3r0qwFVF1pIJsNx0QF9FtyAOqfXAwqBpFqru1F62BjnJWdAvacjNIuKN+3tIjKggBEEEtJWUUNpnLuHUqTep+R0zVb/BoWVApHwMar19QI1or96QSo59+4c7gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="5" y="4" />
+</svg>

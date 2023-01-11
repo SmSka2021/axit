@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 46" width="54" height="46">
+	<title>footer_image_3</title>
+	<defs>
+		<image  width="44" height="46" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAuCAMAAABkkgs4AAAAAXNSR0IB2cksfwAAADNQTFRFAAAAy8vLzc3Nzc3Nz8/PzMzMy8vLzMzMzMzMzMzMzMzMz8/Pzc3NzMzMzMzMysrKzMzM5uK9YgAAABF0Uk5TAEBwfyDPj+//r98QYFCfML+g7eqqAAABKElEQVR4nK2V2xLCIAxEyyVcben/f63sZCJtrY6A+6LEg92EhC7LQUppbV7S2trls36GtSZyVd6HKueM+fK/HXCMKeWMbzmnFAIRr2ZhY0J4PGS1rjBizD9gJKVUW8NISvOwUnjsurbItiHyL9i5FkHCzUapGoM5wWNCgFvp9qpRGD+GsG2yJjoe9wwsxYpRVcUoqLVYYys+Xy3bBaNAGKV9xyYJsz3RobW6YEkGYUnuo40B2DnA56F6K90AXAqPFA6/Nc8MnDOuGO9jRPmIgHsvVi4t2gGXggHVum3mw2+NdXLaAeOxRxSKEUbmYC7WNWrt7WXQBXMbvpvDKMzBbOOaYCnnC20E5tKdcWuJbo+kE86Zh0kaCS+jq60xmBMChDY35jaxfvgJ5DYYlXv2RscAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="8" y="0" />
+</svg>

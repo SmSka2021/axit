@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67 46" width="67" height="46">
+	<title>footer_image_6</title>
+	<defs>
+		<image  width="54" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAqCAMAAADPj1gPAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAz8/Py8vLzMzMy8vLzMzMzMzMzc3NzMzMzc3NzMzMzc3NzMzMz8/PzMzMysrKzMzMW3ZwWQAAABF0Uk5TABBAUI//73DPf69gnyDfML9hfQZKAAAA0UlEQVR4nO2V6w6DIAxGabmUm+D7P+0k2jgFkw3Dsiw7/5qPo4TQIkQTAEQpEdvpJR0agFJ6wxiikRqAtfqAUuM053TFC0fTqRlTa96P0RB5aQhCxMjVaK2ufksTIgTviabpM9qLfKm2N0qtIcYopVIpHbOlkYZo7eqvtTQiLpxD5NFqTFmYM2dlpO8jAqBXmybdIMb1DqVUZ9YuQaf2/PMdbswQ6kzKO1r9NJXRypw/ytvv1YroHD8Z83x+loj4YFLaNnhLW8GFq9GW82X2jvYAaMgYMTIhSiwAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="3" y="4" />
+</svg>
